@@ -1,0 +1,13 @@
+node_modules
+DS_store
+.DS_store
+src/thirdparty/bower
+.idea
+.npmrc
+.sass-cache
+test/client/temp
+public/*
+test/coverage
+*.tap
+bamboo.properties
+test/benchmark/fixture
